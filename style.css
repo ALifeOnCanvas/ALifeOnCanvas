@@ -1,0 +1,198 @@
+body {
+  margin: 0;
+  background-color: #e4f9ff;
+}
+p
+	{
+  font-size: 1.5rem;
+  font-family: 'Josefin Slab', serif;
+	}
+.profile {
+  width: 5rem;
+  border-radius: 50%;
+  font-family: serif;
+}
+.Top-div {
+  margin: 0 0;
+  width: 100%;
+  display: inline-block;
+}
+ #gallerywrapper {
+     width:43.75rem;
+     height:31.875rem;
+     margin: -27rem 30rem 0 25rem;
+     display: inline-block;
+     position: relative;
+ }
+
+ #gallerywrapper #gallery {
+     position:absolute;
+     left:0;
+     top:0;
+     height:31.875rem;
+     width:43.75rem;
+     overflow:hidden;
+     text-align:center;
+ }
+
+ #gallerywrapper #gallery div {
+     width:43.75rem; height:31.875rem;
+     padding-top:10px;
+     position:relative;
+ }
+
+ #gallerywrapper #gallery div img {
+     clear:both;
+     display:block;
+     margin:0 auto;
+     border:0;
+ }
+
+ #gallerywrapper #gallery div h3 {
+     padding:10px 0 0 0;
+     margin:0;
+     font-size:18px;
+ }
+
+ #gallerywrapper #gallery div p {
+     padding:5px 0;
+     margin:0;
+     font-size:12px;
+     line-height:18px;
+ }
+
+ #gallery .previous{
+     display:inline;
+     float:left;
+     margin-left:80px;
+     text-decoration:none;
+ }
+
+ #gallery .next{
+
+     float:right;
+     margin-right:80px;
+     text-decoration:none;
+ }
+ .info
+ {
+	 display: inline-block;
+   position:relative;
+	 width: 22rem;
+	 height: 29rem;
+	 background-color: #87d4c5;
+	 margin: 2rem 70rem auto 1rem;
+ }
+ .info2
+ {
+	 display: inline-block;
+   position:absolute;
+   width: 22rem;
+	 height: 29rem;
+	 background-color: #87d4c5;
+   margin-top: -33.9rem;
+   margin-left: 24%;
+   margin-bottom: 0;
+   margin-right: 2rem;
+
+ }
+ h1
+ {
+	 margin: 10px 0 10px 0;
+	 font-size: 5rem;
+   margin: 0;
+	font-family: 'Marck Script', cursive;
+ }
+ h3{
+	 font-family: 'Montserrat', sans-serif;
+ }
+ .logo{
+   width: 35%;
+ }
+h4
+{
+  font-family: 'Montserrat', sans-serif;
+font-size: 1.35rem;
+margin: 4px 1px 2px 1px;
+padding-top: 5px;
+}
+.infinity
+{
+  width: 30rem;
+  height: 10rem;
+
+}
+
+h5
+{
+   font-family: 'Montserrat', sans-serif;
+  font-size: 1.1rem;
+  }
+  a
+  {
+    text-decoration:none;
+    color:black;
+
+  }
+  hr{
+    border-color:#87d4c5;
+  }
+
+.Connect{
+  width:10rem;
+  height:8rem;
+  border-radius: 40%;
+}
+.image{
+  display: inline-block;
+  width:30rem;
+  height:22rem;
+  margin: 0 .8px;
+  border-style:solid;
+  border-color: #87d4c5;
+}
+h2
+{
+  font-family: 'Montserrat', sans-serif;
+  color :#87a4c5;
+  font-size: 2rem;
+}
+.About-dp
+{
+  border-radius: 100%;
+  width: 27rem;
+  height: 25rem;
+  border-style: solid;
+  border-color:Black;
+  border-width: .3rem;
+}
+.dotted{
+  border-style: none;
+  border-color: green;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 10%;
+}
+
+.About1
+{
+  margin-left: 10%  ;
+  margin-right: 20%;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  border-style: solid;
+  border-color: Black;
+  border-width: .1rem;
+  display: inline-block;
+  width: 75%;
+  height:20%;
+}
+.About2
+{
+  border-style: solid;
+  border-color: Black;
+  border-width: .1rem;
+  width:60%;
+  height:20%;
+  align:center;
+}
